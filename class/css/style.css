@@ -1,0 +1,16 @@
+/* INPUT */
+
+
+form{
+    width: 100%;
+    height: 800px;
+}
+div{
+    width: 100%;
+    height: 300px;
+    /* background-color: teal; */
+}
+input{
+    width: 300px;
+    height: 35px;
+}
